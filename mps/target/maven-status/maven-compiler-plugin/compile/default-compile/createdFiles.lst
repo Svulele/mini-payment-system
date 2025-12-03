@@ -5,6 +5,8 @@ com/sbulele/model/PaymentStatus.class
 com/sbulele/provider/PaymentProvider.class
 com/sbulele/model/PaymentResponse.class
 com/sbulele/router/SwitchRouter.class
+com/sbulele/config/SwaggerConfig.class
 com/sbulele/provider/BankBProvider.class
+com/sbulele/controller/PaymentController.class
 com/sbulele/provider/MobileWalletProvider.class
 com/sbulele/engine/SwitchEngine.class
